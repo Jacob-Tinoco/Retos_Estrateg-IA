@@ -26,4 +26,4 @@ if __name__ == "__main__":
     print(f"Para n=10 y m=10, la salida es: {resultado6}")  # Salida esperada: 86
 
 
-# Resultados esperados: 
+# Resultados esperados:  5/6 
