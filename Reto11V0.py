@@ -64,3 +64,6 @@ if __name__ == "__main__":
     print(solution("MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMCDLXXVI"))  # Salida esperada: 53476
     print(solution("LLMMMCDLXXVI")) #Salida esperada: 3476 
     print(solution("XV")) #Salida esperada: 15 
+
+
+#resultados esperados: yep, 5/6
