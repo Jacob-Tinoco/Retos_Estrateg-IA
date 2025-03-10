@@ -46,4 +46,4 @@ if __name__ == "__main__":
     x3 = 0
     resultado3 = solution(precios3, notas3, x3)
     print(f"Caso 3: {resultado3}")  # Salida esperada: False
-# Resultados esperados: yep
+# Resultados esperados: yep, 3/3
