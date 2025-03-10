@@ -31,7 +31,7 @@ Reto_Tecnico/
 ```
 
 ## Requerimientos
-Este proyecto requiere Python 3.x y las bibliotecas especificadas en el archivo `requirements.txt`.
+Este proyecto requiere Python 3.11 o postrior y las bibliotecas especificadas en el archivo `requirements.txt`.
 
 ## Cómo usar requirements.txt
 Para instalar las dependencias necesarias, se debe ejecutar el siguiente comando en la terminal:
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 
 ## Resultados esperados
-Se espera que cada reto devuelva los resultados correctos según los ejemplos proporcionados en el enunciado. Al final de cada script coloque mi propia puntuación
+Se espera que cada reto devuelva los resultados correctos según los ejemplos proporcionados en el enunciado. Al final de cada script coloque mi propia puntuación.
 
 
 ## Actualizaciones
