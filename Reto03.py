@@ -41,5 +41,5 @@ if __name__ == "__main__":
     resultado3 = solution(question3)
     print(f"Caso 3: {resultado3}")  # Salida esperada: "¿lo hago bien don cangrejo?"
 
-# Resultados esperados: yep
+# Resultados esperados: yep, 4/4
 # jaja 
