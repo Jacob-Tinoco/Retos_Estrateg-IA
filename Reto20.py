@@ -43,7 +43,7 @@ def solution(l, n):
         print(f"Error: {e}")
         return 0  # En caso de error, retornamos 0
 
-
+#2/5
 # Casos de prueba
 print(solution([1, 2, 3, 4, 5], 4))  # Salida esperada: 1
 print(solution([16, 6, 49, 43, 81], 73))  # Salida esperada: 3
